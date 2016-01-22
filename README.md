@@ -18,10 +18,15 @@ Per palett: `2x2 Rack`, with  `3x Drawer Regular` in most of the racks.
 ![Storage shelves at Fellesverkstedet](./images/storage-shelves.jpg)
 
 ## RACK
-Is put together with 8 countersunk socket head M8 50mm DIN 7991/ISO 10462 bolts and square nuts (M8 x 13 x 5MM). The countersunk bolts facilitates placing two units side by side on a pallett. It's bolted together in order to make it possible to dissasemble for transport. But could theoretically be glued or screwed together as well. 
+Made of 18mm OSB.
+
+Is put together with 8 countersunk socket head M8 x 50mm bolts and square nuts M8 x 13 x 5MM (DIN 7991/ISO 10462).
+The countersunk bolts facilitates placing two units side by side on a pallett.
+
+The rack is assembled with bolts in order to make it possible to dissasemble for transport. But could theoretically be glued or screwed together as well.
 
 ## DRAWERS
-Made of 12mm OSB, as well as 5mm MDF for drawer bottoms. 
+Made of 12mm OSB, as well as 6mm MDF for drawer bottoms.
 
 Several extensions and options exist;
 
@@ -30,4 +35,7 @@ Big One	- supersized drawer, takes the place of two regular drawers in height
 Bridge	- forms a solid surface on top of two racks, as well as housing for two regular drawers
 
 
+## TODO
 
+* Rack: Remove mostly-unused bolt holes in sides. They stay still by their own weight.
+* Publish sources and assembly drawing for `Material Storage`
