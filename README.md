@@ -17,6 +17,13 @@ Per palett: `2x2 Rack`, with  `3x Drawer Regular` in most of the racks.
 
 ![Storage shelves at Fellesverkstedet](./images/storage-shelves.jpg)
 
+## Prerequisites for making
+You will need accesss to a large-scale CNC mill/router, capbale of handling cutsheets of at least 60x80 cm, and cutting 18 mm [OSB](https://en.wikipedia.org/wiki/Oriented_strand_board). Examples include the Shopbot, or an extended Shapeoko/XCarve.
+
+If you don't have access to such a machine, check out your local [FabLab](https://www.fablabs.io/map) , makerspace or [hackerspace](https://wiki.hackerspaces.org/List_of_Hacker_Spaces)! Or find someone to manufacture it for you locally using [Fabhub.io directory](https://www.fabhub.io/directory).
+
+Ready-to-use cutsheet geometry is included, but you will need to set up the toolpaths yourself using the CAM software for your machine.
+
 ## Modules
 
 [Sketchup project source](Hat_Systems_assembled.skp), for modifying or creating new modules.
