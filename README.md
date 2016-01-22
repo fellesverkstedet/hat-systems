@@ -9,6 +9,14 @@ Originally developed as for use in-house at [Fellesverkstedet](http://fellesverk
 
 Conceptualized for Fellesverkstedet by Hans Christian Skovholt and Graham A. Hayward, distributed under Creative Commons Attribution 4.0 International. [CC-BY 4.0](http://creativecommons.org/licenses/by/4.0/).
 
+## Example configurations
+
+### Storage shelves
+
+Per palett: `2x2 Rack`, with  `3x Drawer Regular` in most of the racks.
+
+![Storage shelves at Fellesverkstedet](./images/storage-shelves.jpg)
+
 ## RACK
 Is put together with 8 countersunk socket head M8 50mm DIN 7991/ISO 10462 bolts and square nuts (M8 x 13 x 5MM). The countersunk bolts facilitates placing two units side by side on a pallett. It's bolted together in order to make it possible to dissasemble for transport. But could theoretically be glued or screwed together as well. 
 
