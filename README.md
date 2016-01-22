@@ -51,13 +51,25 @@ Regular drawer that will fit most stuff.
 
 Made of 12mm OSB, as well as 6mm MDF for drawer bottoms.
 
+[.DXF original geometry](./Regular_drawer/DRAWERS_REGULAR_full_sheet_v1.0_no_dogbones_no_hdd.dxf) | 
+[Cutsheet .DXF (includes dogboones & holddown, for <=6mm tool)](./Regular_drawer/DRAWERS_REGULAR_full_sheet_v1.0_6mm_dogbones.dxf) | 
+[.STL 3d-model](./Drawer_regular.stl)
+
+You will also need one drawer bottom.
+
+[.DXF original geometry](./Drawer_bottom/DRAWER_BOTTOM_full_sheet_v1.0_no_dogbones_no_hdd.dxf) | 
+[Cutsheet .DXF (includes dogboones & holddown, for <=6mm tool)](./Drawer_bottom/DRAWER_BOTTOM_full_sheet_v1.0_6mm_dogbones.dxf) | 
+
+
 ### Drawer BigOne
 
 Supersized drawer, takes the place of two regular drawers in height. Otherwise identical to Drawer Regular.
 
 [.DXF original geometry](./Big_One_drawer/BIG_ONE_Drawer_no_dogbones.dxf) | 
-[cutsheet .DXF (includes dogboones & holddown, for <=6mm tool)](./Big_One_drawer/BIG_ONE_Drawer_6mm_dogbones.dxf) | 
+[Cutsheet .DXF (includes dogboones & holddown, for <=6mm tool)](./Big_One_drawer/BIG_ONE_Drawer_6mm_dogbones.dxf) | 
 [.STL 3d-model](./Drawer_big_one.stl)
+
+You will also need one drawer bottom, see above!
 
 ### Bridge
 
@@ -65,6 +77,9 @@ Forms a solid surface on top of two racks, as well as housing for two regular dr
 Useful to create a working sturface, with height comfortable for standing work.
 
 ![Bridge assembly drawing](./Bridge/BRIDGE_v0.9_assembly.png)
+
+.DXF original geometry [1](./Big_One_drawer/Bridge/BRIDGE_v0.9_no_dogbones_1of2.dxf)  [2](./Big_One_drawer/Bridge/BRIDGE_v0.9_no_dogbones_2of2.dxf) | 
+
 
 ## TODO
 
