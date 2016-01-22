@@ -9,7 +9,15 @@ Originally developed as for use in-house at [Fellesverkstedet](http://fellesverk
 
 ## License
 
-Conceptualized for Fellesverkstedet by Hans Christian Skovholt and Graham A. Hayward, distributed under Creative Commons Attribution 4.0 International. [CC-BY 4.0](http://creativecommons.org/licenses/by/4.0/).
+Distributed under Creative Commons Attribution 4.0 International. [CC-BY 4.0](http://creativecommons.org/licenses/by/4.0/).
+
+## Contributors
+Conceptualized for Fellesverkstedet by [Hans Christian Skovholt](http://www.skovholt.net/) and Graham A. Hayward.
+
+Modules have been produced by Jonas Sætervik, [Siemen Cuypupeiers](http://www.siemencuypers.com) and Anthony Poldervaart. And by Thomas Winther at Bitraf.
+
+Have you made a Hat Systems module? Or have designed additional modules? [Let us know!](https://github.com/fellesverkstedet/hat-systems/issues/new).
+
 
 ## Example configurations
 
