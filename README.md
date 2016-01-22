@@ -89,7 +89,7 @@ Original geometry [.DXF 1](./Big_One_drawer/Bridge/BRIDGE_v0.9_no_dogbones_1of2.
 
 ## TODO
 
-* Material module is only partly documented, and files should be scrutinized before attemptin to produce. 
+* Material module is only partly documented, and files should be scrutinized before any attempt to produce.
 * Rack: Remove mostly-unused bolt holes in sides. They stay still by their own weight.
 * Publish sources and assembly drawing for `Material Storage`
 * Add a template .SVG file for drawer label (for ease of making on laser/printer)
