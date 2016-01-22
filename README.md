@@ -23,7 +23,7 @@ Per palett: `2x2 Rack`, with  `3x Drawer Regular` in most of the racks.
 
 The base module, which drawers fit into.
 
-![Rack assembly drawing](./Rack/RACK_v1.0_assembly.pdf.png)
+![Rack assembly drawing](./Rack/RACK_v1.0_assembly.png)
 
 Made of 18mm OSB.
 
@@ -36,7 +36,7 @@ The rack is assembled with bolts in order to make it possible to dissasemble for
 
 Regular drawer that will fit most stuff.
 
-![Drawer Regular assembly drawing](./Regular_drawer/REGULAR_DRAWER_v1.0_assembly.pdf.png)
+![Drawer Regular assembly drawing](./Regular_drawer/REGULAR_DRAWER_v1.0_assembly.png)
 
 Made of 12mm OSB, as well as 6mm MDF for drawer bottoms.
 
@@ -49,7 +49,7 @@ Supersized drawer, takes the place of two regular drawers in height. Otherwise i
 Forms a solid surface on top of two racks, as well as housing for two regular drawers.
 Useful to create a working sturface, with height comfortable for standing work.
 
-![Bridge assembly drawing](./Bridge/BRIDGE_v0.9_assembly.pdf.png)
+![Bridge assembly drawing](./Bridge/BRIDGE_v0.9_assembly.png)
 
 ## TODO
 
