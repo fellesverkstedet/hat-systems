@@ -1,3 +1,5 @@
+![Modules overview](Hat_Systems_modules.png)
+
 # Hat Systems
 Hat Systems is a general purpose storage system for workshop storage of tools and inventory.
 
