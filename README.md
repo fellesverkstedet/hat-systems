@@ -19,6 +19,8 @@ Per palett: `2x2 Rack`, with  `3x Drawer Regular` in most of the racks.
 
 ## Modules
 
+[Sketchup project source](Hat_Systems_assembled.skp), for modifying or creating new modules.
+
 ### Rack
 
 The base module, which drawers fit into.
