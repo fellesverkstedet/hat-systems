@@ -91,3 +91,4 @@ Original geometry [.DXF 1](./Big_One_drawer/Bridge/BRIDGE_v0.9_no_dogbones_1of2.
 
 * Rack: Remove mostly-unused bolt holes in sides. They stay still by their own weight.
 * Publish sources and assembly drawing for `Material Storage`
+* Add a template .SVG file for drawer label (for ease of making on laser/printer)
