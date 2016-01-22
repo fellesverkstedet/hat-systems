@@ -28,7 +28,7 @@ Ready-to-use cutsheet geometry is included, but you will need to set up the tool
 
 ## Modules
 
-[Sketchup project source](Hat_Systems_assembled.skp), for modifying or creating new modules.
+[Sketchup project source](./Hat_Systems_assembled.skp), for modifying or creating new modules.
 
 ### Rack
 
@@ -42,6 +42,10 @@ Is put together with 8 countersunk socket head M8 x 50mm bolts and square nuts M
 The countersunk bolts facilitates placing two units side by side on a pallett.
 
 The rack is assembled with bolts in order to make it possible to dissasemble for transport. But could theoretically be glued or screwed together as well.
+
+[.DXF original geometry](./Rack/RACK_full_sheet_v1.0_no_dogbones_no_hdd.dxf) | 
+[Cutsheet .DXF (includes dogboones & holddown, for <=6mm tool)](./Rack/RACK_full_sheet_v1.0_6mm_dogbones.dxf) | 
+[.STL 3d-model](./Rack.stl)
 
 ### Drawer Regular
 
@@ -78,7 +82,7 @@ Useful to create a working sturface, with height comfortable for standing work.
 
 ![Bridge assembly drawing](./Bridge/BRIDGE_v0.9_assembly.png)
 
-.DXF original geometry [1](./Big_One_drawer/Bridge/BRIDGE_v0.9_no_dogbones_1of2.dxf)  [2](./Big_One_drawer/Bridge/BRIDGE_v0.9_no_dogbones_2of2.dxf) | 
+Original geometry [.DXF 1](./Big_One_drawer/Bridge/BRIDGE_v0.9_no_dogbones_1of2.dxf) [.DXF 2](./Big_One_drawer/Bridge/BRIDGE_v0.9_no_dogbones_2of2.dxf) | 
 
 
 ## TODO
