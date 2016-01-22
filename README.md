@@ -17,7 +17,14 @@ Per palett: `2x2 Rack`, with  `3x Drawer Regular` in most of the racks.
 
 ![Storage shelves at Fellesverkstedet](./images/storage-shelves.jpg)
 
-## RACK
+## Modules
+
+### Rack
+
+The base module, which drawers fit into.
+
+![Rack assembly drawing](./Rack/RACK_v1.0_assembly.pdf.png)
+
 Made of 18mm OSB.
 
 Is put together with 8 countersunk socket head M8 x 50mm bolts and square nuts M8 x 13 x 5MM (DIN 7991/ISO 10462).
@@ -25,15 +32,24 @@ The countersunk bolts facilitates placing two units side by side on a pallett.
 
 The rack is assembled with bolts in order to make it possible to dissasemble for transport. But could theoretically be glued or screwed together as well.
 
-## DRAWERS
+### Drawer Regular
+
+Regular drawer that will fit most stuff.
+
+![Drawer Regular assembly drawing](./Regular_drawer/REGULAR_DRAWER_v1.0_assembly.pdf.png)
+
 Made of 12mm OSB, as well as 6mm MDF for drawer bottoms.
 
-Several extensions and options exist;
+### Drawer BigOne
 
-Regular	- regular drawer that will fit most stuff
-Big One	- supersized drawer, takes the place of two regular drawers in height
-Bridge	- forms a solid surface on top of two racks, as well as housing for two regular drawers
+Supersized drawer, takes the place of two regular drawers in height. Otherwise identical to Drawer Regular.
 
+### Bridge
+
+Forms a solid surface on top of two racks, as well as housing for two regular drawers.
+Useful to create a working sturface, with height comfortable for standing work.
+
+![Bridge assembly drawing](./Bridge/BRIDGE_v0.9_assembly.pdf.png)
 
 ## TODO
 
