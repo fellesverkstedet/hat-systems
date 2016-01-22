@@ -20,15 +20,17 @@ Per palett: `2x2 Rack`, with  `3x Drawer Regular` in most of the racks.
 ![Storage shelves at Fellesverkstedet](./images/storage-shelves.jpg)
 
 ## Prerequisites for making
-You will need accesss to a large-scale CNC mill/router, capbale of handling cutsheets of at least 60x80 cm, and cutting 18 mm [OSB](https://en.wikipedia.org/wiki/Oriented_strand_board). Examples include the Shopbot, or an extended Shapeoko/XCarve.
+You will need accesss to a large-scale CNC mill/router, capable of handling cutsheets of at least 60x80 cm (120x80 for current bridge design),
+and cutting 18 mm [OSB](https://en.wikipedia.org/wiki/Oriented_strand_board).
+Examples include the Shopbot PRS, or an extended Shapeoko/XCarve.
 
-If you don't have access to such a machine, check out your local [FabLab](https://www.fablabs.io/map) , makerspace or [hackerspace](https://wiki.hackerspaces.org/List_of_Hacker_Spaces)! Or find someone to manufacture it for you locally using [Fabhub.io directory](https://www.fabhub.io/directory).
+If you don't have access to such a machine, check out your local [FabLab](https://www.fablabs.io/map), makerspace or [hackerspace](https://wiki.hackerspaces.org/List_of_Hacker_Spaces)! Or find someone to manufacture it for you locally using [Fabhub.io directory](https://www.fabhub.io/directory).
 
 Ready-to-use cutsheet geometry is included, but you will need to set up the toolpaths yourself using the CAM software for your machine.
 
 ## Modules
 
-[Sketchup project source](Hat_Systems_assembled.skp), for modifying or creating new modules.
+[Sketchup project source](./Hat_Systems_assembled.skp), for modifying or creating new modules.
 
 ### Rack
 
@@ -42,6 +44,10 @@ Is put together with 8 countersunk socket head M8 x 50mm bolts and square nuts M
 The countersunk bolts facilitates placing two units side by side on a pallett.
 
 The rack is assembled with bolts in order to make it possible to dissasemble for transport. But could theoretically be glued or screwed together as well.
+
+[.DXF original geometry](./Rack/RACK_full_sheet_v1.0_no_dogbones_no_hdd.dxf) | 
+[Cutsheet .DXF (includes dogboones & holddown, for <=6mm tool)](./Rack/RACK_full_sheet_v1.0_6mm_dogbones.dxf) | 
+[.STL 3d-model](./Rack.stl)
 
 ### Drawer Regular
 
@@ -78,10 +84,11 @@ Useful to create a working sturface, with height comfortable for standing work.
 
 ![Bridge assembly drawing](./Bridge/BRIDGE_v0.9_assembly.png)
 
-.DXF original geometry [1](./Big_One_drawer/Bridge/BRIDGE_v0.9_no_dogbones_1of2.dxf)  [2](./Big_One_drawer/Bridge/BRIDGE_v0.9_no_dogbones_2of2.dxf) | 
+Original geometry [.DXF 1](./Big_One_drawer/Bridge/BRIDGE_v0.9_no_dogbones_1of2.dxf) [.DXF 2](./Big_One_drawer/Bridge/BRIDGE_v0.9_no_dogbones_2of2.dxf) | 
 
 
 ## TODO
 
 * Rack: Remove mostly-unused bolt holes in sides. They stay still by their own weight.
 * Publish sources and assembly drawing for `Material Storage`
+* Add a template .SVG file for drawer label (for ease of making on laser/printer)
