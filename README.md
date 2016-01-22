@@ -53,6 +53,10 @@ Made of 12mm OSB, as well as 6mm MDF for drawer bottoms.
 
 Supersized drawer, takes the place of two regular drawers in height. Otherwise identical to Drawer Regular.
 
+[.DXF original geometry](./Big_One_drawer/BIG_ONE_Drawer_no_dogbones.dxf) | 
+[cutsheet .DXF (includes dogboones & holddown, for <=6mm tool)](./Big_One_drawer/BIG_ONE_Drawer_6mm_dogbones.dxf) | 
+[.STL 3d-model](./Drawer_big_one.stl)
+
 ### Bridge
 
 Forms a solid surface on top of two racks, as well as housing for two regular drawers.
