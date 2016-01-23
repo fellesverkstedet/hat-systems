@@ -27,6 +27,12 @@ Per palett: `2x2 Rack`, with  `3x Drawer Regular` in most of the racks.
 
 ![Storage shelves at Fellesverkstedet](./images/storage-shelves.jpg)
 
+### Laser material storage
+
+`1x Material Storage` with `1x Bridge` on top.
+
+![Material Storage for laser](./images/material-storage.jpg)
+
 ## Prerequisites for making
 You will need accesss to a large-scale CNC mill/router, capable of handling cutsheets of at least 60x80 cm (120x80 for current bridge design),
 and cutting 18 mm [OSB](https://en.wikipedia.org/wiki/Oriented_strand_board).
@@ -106,9 +112,21 @@ Full-width module for storing materials vertically.
 [.DXF export](./Material_storage/Material_storage.dxf) | 
 [.STL 3d-model](./Material_storage/Material_storage.stl)
 
+## Trash cans
+
+**Work-in-progress!** Files currently missing.
+
+Trash can rack, including 3x trash cans.
+
+![Trash cans module](./images/thrash-cans-millingbits.jpg)
+
+The ER20 collet and milling bit holder on top is also to-be-released.
+
 
 ## TODO
 
 * Material Storage: Finish/verify files, mark complete.
 * Rack: Remove mostly-unused bolt holes in sides. They stay still by their own weight.
 * Add a template .SVG file for drawer label (for ease of making on laser/printer)
+* Trash cans: Publish files, create assembly drawing
+* 
