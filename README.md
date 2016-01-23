@@ -33,6 +33,13 @@ Per palett: `2x2 Rack`, with  `3x Drawer Regular` in most of the racks.
 
 ![Material Storage for laser](./images/material-storage.jpg)
 
+## Roller table with drawers
+
+`1x Rack` with `3x Drawer Regular`, a benchplate on top and.
+Very useful for moving large cutsheets and finished parts around workshop, to and from CNC router.
+
+![Roller table with drawers](./images/rack-roller-table.jpg)
+
 ## Prerequisites for making
 You will need accesss to a large-scale CNC mill/router, capable of handling cutsheets of at least 60x80 cm (120x80 for current bridge design),
 and cutting 18 mm [OSB](https://en.wikipedia.org/wiki/Oriented_strand_board).
