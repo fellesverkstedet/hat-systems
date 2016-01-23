@@ -35,10 +35,17 @@ Per palett: `2x2 Rack`, with  `3x Drawer Regular` in most of the racks.
 
 ## Roller table with drawers
 
-`1x Rack` with `3x Drawer Regular`, a benchplate on top and.
+`1x Rack` with `3x Drawer Regular`, a benchplate on top and wheels mounted underneath.
 Very useful for moving large cutsheets and finished parts around workshop, to and from CNC router.
 
 ![Roller table with drawers](./images/rack-roller-table.jpg)
+
+## Collaboration table
+
+`2x Rack` with a tabletop made out of one old sacrificial layer from CNC and one white-painted sheet (120x240cm).
+Comfortable to stand and work around, or one can sit on bar-style stools.
+
+![Big collaboration table](./images/collaboration-table.jpg)
 
 ## Prerequisites for making
 You will need accesss to a large-scale CNC mill/router, capable of handling cutsheets of at least 60x80 cm (120x80 for current bridge design),
