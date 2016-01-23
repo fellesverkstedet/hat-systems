@@ -94,9 +94,21 @@ Useful to create a working sturface, with height comfortable for standing work.
 
 Original geometry [.DXF 1](./Big_One_drawer/Bridge/BRIDGE_v0.9_no_dogbones_1of2.dxf) [.DXF 2](./Big_One_drawer/Bridge/BRIDGE_v0.9_no_dogbones_2of2.dxf) | 
 
+## Material Storage
+
+Full-width module for storing materials vertically.
+
+![Material storage assembly drawing](./Material_storage/Material_module_v1.0_assembly.pdf)
+
+**Work-in-progress!** Files should be scrutinized before any attempt to produce.
+
+[Sketchup project](./Material_storage/Material_storage.skp) | 
+[.DXF export](./Material_storage/Material_storage.dxf) | 
+[.STL 3d-model](./Material_storage/Material_storage.stl)
+
 
 ## TODO
 
-* Material storage module is only partly documented, and files should be scrutinized before any attempt to produce.
+* Material Storage: Finish/verify files, mark complete.
 * Rack: Remove mostly-unused bolt holes in sides. They stay still by their own weight.
 * Add a template .SVG file for drawer label (for ease of making on laser/printer)
