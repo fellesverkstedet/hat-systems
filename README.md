@@ -47,6 +47,15 @@ Comfortable to stand and work around, or one can sit on bar-style stools.
 
 ![Big collaboration table](./images/collaboration-table.jpg)
 
+## Machine tools workbench
+
+The machines on top of the work surface are each attached to a plate with chamfered edges.
+An opposing chamfered edge in back, and  hinged profile in front locks the plates in place.
+This allows some flexibility in moving the machines around.
+
+![Machine tools workbench](./images/bitraf-machinetools.jpg)
+Picture from Bitraf makerspace.
+
 ## Prerequisites for making
 You will need accesss to a large-scale CNC mill/router, capable of handling cutsheets of at least 60x80 cm (120x80 for current bridge design),
 and cutting 18 mm [OSB](https://en.wikipedia.org/wiki/Oriented_strand_board).
@@ -139,8 +148,11 @@ The ER20 collet and milling bit holder on top is also to-be-released.
 
 ## TODO
 
+* Publish on model-sharing sites, with link back to project. Thingiverse? GrabCad?
+* Add picture of Bitraf island module, and design files
 * Material Storage: Finish/verify files, mark complete.
 * Rack: Remove mostly-unused bolt holes in sides. They stay still by their own weight.
 * Add a template .SVG file for drawer label (for ease of making on laser/printer)
 * Trash cans: Publish files, create assembly drawing
-* 
+* Milling bit holder: Publish in separate project, link here
+
