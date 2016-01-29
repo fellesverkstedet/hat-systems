@@ -148,7 +148,6 @@ The ER20 collet and milling bit holder on top is also to-be-released.
 
 ## TODO
 
-* Publish on model-sharing sites, with link back to project. Thingiverse? GrabCad?
 * Add picture of Bitraf island module, and design files
 * Material Storage: Finish/verify files, mark complete.
 * Rack: Remove mostly-unused bolt holes in sides. They stay still by their own weight.
